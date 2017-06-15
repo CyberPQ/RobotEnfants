@@ -3,20 +3,20 @@ Robot de mes enfants, à base d'Arduino, avec deux roues connectées à des serv
 
 ## Connexions électriques
 
-La carte Arduino utilisée est assimilable à une carte Mega.
+La carte Arduino utilisée est assimilable à une carte **Arduino Mega**.
 
-La led bleue est disppnible sur la pin 13.
+La led bleue est disponible sur la **pin 13**.
 
-Roue gauche   : Arduino Pin 44
-Roue droite   : Arduino Pin 46
+Roue gauche   : **Pin 44**
 
-Servo de tête : Arduino Pin 42
+Roue droite   : **Pin 46**
+
+Servo de tête : **Pin 42**
 
 Emetteur d'ultra-sons :
-  - Trigger   : Arduino Pin 51
-  - Echo      : Arduino Pin 53
+  - Trigger   : **Pin 51**
+  - Echo      : **Pin 53**
 
 Emetteur Bluetooth :
-  - Port     : Serial2
-  - Settings : 115200,8N1
-  
+  - Port     : **Serial2**
+  - Settings : **115200,8N1**
